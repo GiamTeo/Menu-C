@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665064686 source:c:\users\giamm\source\repos\221006_roberti_verifica\main.c
+	<stdio.h>
+	<stdlib.h>
+
